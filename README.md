@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/69f28fc2-183b-4832-8084-8d00a4ce224b)<h1 align="center"> NLP Challenge using Olist Dataset </h1>
+<h1 align="center"> NLP Challenge using Olist Dataset </h1>
 
 ## Links
 
